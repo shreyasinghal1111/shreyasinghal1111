@@ -14,6 +14,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreyasinghal1111&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Hacktoberfest Trophies
+[![An image of @shreyasinghal1111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyasinghal1111)](https://holopin.io/@shreyasinghal1111)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shreyasinghal1111&limit=5&theme=radical&combine_all_yearly_contributions=true)
