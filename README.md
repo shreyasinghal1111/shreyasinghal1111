@@ -12,10 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyasinghal1111&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasinghal1111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyasinghal1111&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🏆 Hacktoberfest Trophies
 [![An image of @shreyasinghal1111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyasinghal1111)](https://holopin.io/@shreyasinghal1111)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyasinghal1111&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shreyasinghal1111&limit=5&theme=radical&combine_all_yearly_contributions=true)
