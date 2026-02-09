@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 Web Developer <br>👯 I’m looking to collaborate on open source contributions<br>
+🚀 Frontend-focused Web Developer with hands-on experience building modern, scalable web applications  
+⚡ Specialized in creating clean, responsive, and high-performance user interfaces  
+🧠 Strong foundation in React.js with a focus on usability, performance, and maintainable code  
+🤝 Actively looking to collaborate on impactful open-source and real-world projects  
 
 
 ## 🌐 Socials:
